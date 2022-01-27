@@ -4,7 +4,9 @@
 
 Analyzing 133 million trips spanning a period of November 2019 to April 2020. Conducting an exploratory data analysis to gain insights about pickup volume across various taxi
 services, most frequented locations, common routes, trip duration across the week and so on.
-Using Python Vaex to make dataframe operations effecient. 
+Using Python Vaex to make dataframe operations much faster, and effecient.
+
+The code that deals with reading in the files, merging, and saving the dataframe as a hd5 file is commented out since it's time taking, and only needs to be run once.
 
 ## Running the notebook:
 > Unzip dataset file from the link.
