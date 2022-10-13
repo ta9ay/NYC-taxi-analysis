@@ -1,6 +1,5 @@
 # NYC-taxi-analysis
 
-(Still in progress)
 
 Analyzing 133 million trips spanning a period of November 2019 to April 2020. Conducting an exploratory data analysis to gain insights about pickup volume across various taxi
 services, most frequented locations, common routes, trip duration across the week and so on.
